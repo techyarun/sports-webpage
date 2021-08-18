@@ -15,7 +15,7 @@
    2. ***Participant***,
    3. ***Volunteer***
 * > Here we can  collect the details of ***Participants*** and ***Volunteers.***.
-* > Then,we can able to ***login***.If we can't able to login ,then there will be an option like ***forget password*** where if we give oru ***email id*** means it reflect the password  to our mail with the help of xampp phpmysql database .Then we can able to login effectively.
+* > Then,we can able to ***login***.If we can't able to login ,then there will be an option like ***forget password*** where if we give our ***email id*** means it reflect the password  to our mail with the help of xampp phpmysql database .Then we can able to login effectively.
 * > In Admin page there is multiple options. In sub heading of participant there will be two options like new and Existing.In new option we can view the details in a table format and there will be a ***ACCEPT*** option to accept the participant to take part in sports carrer.
 * > Same process will be done for Volunteer also👆👆👆.
 * > Then there is a ***change*** option which made changes in registration form and replaces the details.
