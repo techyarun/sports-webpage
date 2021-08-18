@@ -5,7 +5,7 @@
 * [Description](#Description)
 * [Requirements](#Requirements)
 * [CDN](#CDN)
-* [software-requirements](#software-requirements)
+* [softwares](#softwares)
 
 
 # <a name="Description"></a>Description
@@ -22,7 +22,7 @@
 * Google Fonts  --> <https://fonts.google.com/>
 * FontAwesome   --> <https://fontawesome.com/v6.0/icons>
 
-# <a name="software-requirements"></a>software-requirements
+# <a name="softwares"></a>softwares
 * Pycharm --> <https://www.jetbrains.com/pycharm/download/#section=windows>
 * Notepad --> <https://notepad-plus-plus.org/downloads/>
 * VScode  --> <https://code.visualstudio.com/download>
